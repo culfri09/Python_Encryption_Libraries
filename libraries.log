@@ -1,0 +1,17 @@
+INFO:test:PyNaCl Key: b'\xf6O\x16$\xd7\xed\xc0\\\x84\xe1\x7f\x11SF\xb6\x0b\x85\x8f\x92\x0b\x82\xfar=I\xa6D\x8b5\xc8=\xe2'
+INFO:test:PyNaCl Key Length: 32
+INFO:test:PyNaCl Encrypted Message: FUO0xbGkTeSsSZPsp7Q0DOCvS2j3AelwruFxlat0YU5qiGJb2U4KKCIDQ6NNrNfoUMFcg5bTw3vaN17t2j7y0MsWK+X6paU=
+INFO:test:PyNaCl Encrypted Message Length: 96
+INFO:test:PyNaCl Encryption Time: 0.00099945068359375 seconds
+INFO:test:PyNaCl Decrypted Message: {'Organizaciones inteligentes'}
+INFO:test:PyCryptodome Key: b'\x8c,*\xbe\x9a\xb5\xc7\xbf\xe0\xfd\x02\xbd2\xd0y}'
+INFO:test:PyCryptodome Key Length: 16
+INFO:test:PyCryptodome Encrypted Message: kMmhJVKSXmSFC4LlxFrS5HjpjRBXbdMSC3i+STh2Hlw1WAzsmLCornCVf3odrdSe
+INFO:test:PyCryptodome Encrypted Message Length: 64
+INFO:test:PyCryptodome Encryption Time: 0.0010333061218261719 seconds
+INFO:test:PyCryptodome Decrypted Message: {'Organizaciones inteligentes'}
+INFO:test:Cryptography Key Length: 32
+INFO:test:Cryptography Encrypted Message: k5qLuU4TSsaJbCJbRM3mAwy4Ru47Or1k9-K7ioEPzB6vFgJ_m6TA5AZazBWIvzi8
+INFO:test:Cryptography Encrypted Message Length: 64
+INFO:test:Cryptography Encryption Time: 0.0009980201721191406 seconds
+INFO:test:Cryptography Decrypted Message: {'Organizaciones inteligentes'}
